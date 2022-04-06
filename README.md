@@ -5,4 +5,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-@AbhinavPratap24-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abhinavpratap24/)](https://instagram.com/abhinavpratap24)
 [![Gmail Badge](https://img.shields.io/badge/-TheAPratap-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:theapratap@gmail.com)](mailto:theapratap@gmail.com)
 
-Welcome to my profile! I'm a student, aspiring [Software Engineer](https://github.com/TheAPratap/), part-time coder and full-time overthinker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/TheAPratap/)!
+Welcome to my profile! I'm a student, aspiring [Software Engineer](https://github.com/TheAPratap/), part-time learner and full-time overthinker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/TheAPratap/)!
