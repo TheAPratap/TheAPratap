@@ -1,4 +1,4 @@
-# Hey, I'm Abhinav 👋
+# Heya, I'm Abhinav 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-TheAPratap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TheAPratap/)](https://www.linkedin.com/in/TheAPratap/)
 [![Twitter Badge](https://img.shields.io/badge/-@TheAPratap-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheAPratap)](https://twitter.com/TheAPratap)
